@@ -15,7 +15,7 @@
 
 ## 🔗 Repositorio GitHub
 
-[https://github.com/Rfadusz/eva2_fadus_ricardo_project]
+https://github.com/Rfadusz/api-fintech-bancaria
 ---
 
 ## 📁 Estructura del Proyecto
@@ -65,8 +65,8 @@ backend/
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/Rfadusz/eva2_fadus_ricardo_project
-cd eva2_fadus_ricardo_project
+git clone https://github.com/Rfadusz/api-fintech-bancaria
+cd api-fintech-bancaria
 ```
 
 ### 2. Ingresar a la carpeta del proyecto Laravel
